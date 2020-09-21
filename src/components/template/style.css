@@ -1,0 +1,18 @@
+.page-container {
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.navbar-container {
+  height: 15vh;
+  background-color: teal;
+}
+
+.main-container {
+  min-height: 60vh;
+}
+
+.footer-container {
+  min-height: 25vh;
+  background-color: tomato;
+}
